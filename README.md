@@ -27,3 +27,11 @@ Creating UI designs using Adobe XD, Figma and some other prototyping tools.
  > Icons
 
 ![Screenshot](https://github.com/sourav2002/UI-UX-Designs/blob/master/images/img5_icon.png?raw=true)
+
+## Day 6
+ > User Profile
+
+![Screenshot](https://github.com/sourav2002/UI-UX-Designs/blob/master/images/UserProfile_06.png?raw=true)
+* ### Adobe CC Vew
+![Screenshot](https://github.com/sourav2002/UI-UX-Designs/blob/master/images/UserProfileAdobeCC.png?raw=true)
+
