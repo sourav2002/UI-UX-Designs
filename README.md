@@ -35,3 +35,7 @@ Creating UI designs using Adobe XD, Figma and some other prototyping tools.
 * ### Adobe CC Vew
 ![Screenshot](https://github.com/sourav2002/UI-UX-Designs/blob/master/images/UserProfileAdobeCC.png?raw=true)
 
+## User Setting UI with prototyping 
+
+![Screenshot](https://github.com/sourav2002/UI-UX-Designs/blob/master/images/Setting prototyping 2 pic.png?raw=true)
+![Screenshot](https://github.com/sourav2002/UI-UX-Designs/blob/master/images/Setting prototyping pic.png?raw=true)
