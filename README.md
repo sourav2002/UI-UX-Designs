@@ -37,5 +37,5 @@ Creating UI designs using Adobe XD, Figma and some other prototyping tools.
 
 ## User Setting UI with prototyping 
 
-![Screenshot](https://github.com/sourav2002/UI-UX-Designs/blob/master/images/Setting prototyping 2 pic.png?raw=true)
-![Screenshot](https://github.com/sourav2002/UI-UX-Designs/blob/master/images/Setting prototyping pic.png?raw=true)
+![Screenshot](https://github.com/sourav2002/UI-UX-Designs/blob/master/images/Setting_prototyping_2_pic.png?raw=true)
+![Screenshot](https://github.com/sourav2002/UI-UX-Designs/blob/master/images/Setting_prototyping_pic.png?raw=true)
